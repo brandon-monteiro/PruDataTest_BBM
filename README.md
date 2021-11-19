@@ -1,2 +1,2 @@
 # PruDataTest_BBM
-Test application paper solution
+Test application solution
